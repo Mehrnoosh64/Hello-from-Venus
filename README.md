@@ -1,3 +1,2 @@
 # Hello from Venus
-My name is Mehrnoosh.
-This is my first Github Website!
+This is my first Python programming for HangMan game!
